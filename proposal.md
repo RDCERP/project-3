@@ -25,7 +25,6 @@ Be able to look up a business and post to your page. Then other users can review
 ​```
 Git clone git@github.com:RDCERP/project-3.git
 ```
-
 ```
 Install on server file:
 npm i apollo-server-express graphql
